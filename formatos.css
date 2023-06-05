@@ -1,0 +1,61 @@
+.logotipo {
+    width: 60px;
+    height: 60px;
+}
+
+.container-fluid {
+    font-family: "Georgia", "Times New Roman";
+    background-color: orange;
+    padding: 0;
+    margin: 0;
+}
+
+.container-home{
+    margin: 150px 0 150px 0;
+}
+
+header {
+    width: 100%;
+    margin: 0 auto;
+    height: 60px;
+}
+
+nav {
+    height: 60px;
+    background-color: black;
+}
+
+main {
+    margin: 20px 0 20px 0;
+    height: calc(100vh - 100px);
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+    overflow-y: auto;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 38px;
+}
+
+main p {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    padding: 1px;
+    height: 25px;
+    width: 100%;
+    display: inline-block;
+}
+
+form {
+    text-align:left;
+}
